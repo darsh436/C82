@@ -1,0 +1,38 @@
+.body_backgorund {
+    background-color: orange;
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+    font-weight: bold;
+  }
+  h1
+  {
+      color: black; 
+      font-size: 30px;
+      font-weight: bold;
+    }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    margin-top: 12px;
+    margin-right: 35px;
+    background-color: white;
+    border: none;
+    color: orange;
+    padding: 10px 42px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
